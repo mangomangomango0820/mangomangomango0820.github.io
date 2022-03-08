@@ -165,14 +165,17 @@ Learning Outcomes :
 * * *
 
 # Referee
-> Yiau Yee Chia&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{ex-manager}
->>「Applied Materials」<br>
->> yiau_yee_chia@amat.com
-
-> Stefan Mannsfeld&nbsp;&nbsp;&nbsp;&nbsp;{supervisor}
+> Stefan Mannsfeld&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{Prof}
 >> 「Center for Advancing Electronics」<br>
 >> stefan.mannsfeld@tu-dresden.de
 
-> Bart Sorée&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{master program coordinator}
+> Steven De Feyter&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{Prof}
 >> 「KU Leuven」<br>
->> bart.soree@imec.be
+>> steven.defeyter@kuleuven.be
+
+> Yiau Yee Chia&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{ex-manager}
+>>「Applied Materials」<br>
+>> yiau_yee_chia@amat.com
+
+
+
