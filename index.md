@@ -29,35 +29,26 @@ GPA: 3.35 / 4.0 (Top 20 %)
 ```
 Tasks & Achievements :
 
-# Involve in verification and validation the reliability 
-of storage product before its mass production phase;
+# Involve in validating product design, embedded firmware and reliability of storage products before its mass production phase;
 
-# Design for test via python, e.g voltage control, 
-concurrent and parallel programming;
+# Design test case with respect to PMIC and etc. with concurrent and parallel programming and etc. in python;
 
-# Debug issues with collaboration between hardware and 
-software, mainly on linux operating system, with required 
-knowledge base on protocols, firmware, controller, PCIe 
-topology and CPU architecture; 
+# Do failure analysis making use of hardware tool and softwares, mainly on linux operating system, with required knowledge base on protocols, firmware, controller, PCIe topology and CPU architecture;
 
-# Analyze data from Jira project tracking platform, 
-visualize data per requirement and generate summary 
-report;
+# Develop self-adapting software tool to improve the level of automated test execution, data analysis on human resource investment and data management;
 
 
 Learning Outcomes :
 
-# Concurrent programming, and Parallel programming;
+# Python, Golang, Markdown and etc.;
 
 # Protocols, e.g PCIe, NVMe and etc.;
 
-# Git distributed version control system, Jira project 
-tracking software;
+# Git distributed version control system, Altassian softwares;
 
 # Data analysis, e.g pandas, numpy, matplotlib and etc.;
 
-# Linux operating system, e.g remote fetch and manage 
-files;
+# Test platform setup, including hardware and software
 ```
 
 #### Process Support Engineer 
@@ -66,10 +57,7 @@ files;
 
 ```
 Tasks & Achievements :
-# Inspect early phase products with eBeam inspection and 
-metrology tool;
-# Process obtained graphics via edge / are segmentation, 
-and realize rough binning via crude decision trees;
+# Process eBeam graphics via edge / are segmentation, and realize rough binning via crude decision trees;
 
 Learning Outcomes :
 # Image processing, e.g. edge / area segmentation methods;
