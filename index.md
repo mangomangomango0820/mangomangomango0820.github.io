@@ -29,26 +29,24 @@ GPA: 3.35 / 4.0 (Top 20 %)
 ```
 Tasks & Achievements :
 
-# Involve in validating product design, embedded firmware and reliability of storage products before its mass production phase;
+- Design test case in Python and use hardware tools (e.g Protocol Analyzer) to verify and validate the reliability of storage products;
 
-# Design test case with respect to PMIC and etc. with concurrent and parallel programming and etc. in python;
+- Develop automatic tools to improve working efficiency (e.g automatic sending report from Jira, massively setting up Jenkins jobs).
 
-# Do failure analysis making use of hardware tool and softwares, mainly on linux operating system, with required knowledge base on protocols, firmware, controller, PCIe topology and CPU architecture;
-
-# Develop self-adapting software tool to improve the level of automated test execution, data analysis on human resource investment and data management;
+- Do data analysis on test log and create a statistical model of product's performance;
 
 
 Learning Outcomes :
 
-# Python, Golang, Markdown and etc.;
+- Concurrent programming and Parallel programming in Python;
 
-# Protocols, e.g PCIe, NVMe and etc.;
+- PCIe architecture;
 
-# Git distributed version control system, Altassian softwares;
+- Git distributed version control system, Jira project tracking software;
 
-# Data analysis, e.g pandas, numpy, matplotlib and etc.;
+- Data analysis and data visualization using pandas, numpy, matplotlib and etc.;
 
-# Test platform setup, including hardware and software
+- Linux operating system, e.g remote fetch and manage files and debug with kernel log;
 ```
 
 #### Process Support Engineer 
