@@ -2,7 +2,7 @@ title: Xueshan Zhang
 logo: /assets/img/xueshan_dresden.png
 description: <br>Msc Nanoelectronics Graduate<br>Working in Semi Field<br>Looking for position in the field of Electronics, Semicon, and CS disciplines.
 show_downloads: true
-google_analytics:
+google_analytics: UA-255199380-1
 theme: jekyll-theme-slate
 
 Linkedin:
@@ -17,6 +17,3 @@ Github:
 
 CDSN:
   page_url: https://blog.csdn.net/MissMango0820
-  
- # Google Analytics
-google_analytics: UA-255199380-1
