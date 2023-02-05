@@ -28,25 +28,21 @@ GPA: 3.35 / 4.0 (Top 20 %)
 
 ```
 Tasks & Achievements :
-
-- Design test case in Python and use hardware tools (e.g Protocol Analyzer) to verify and validate the reliability of storage products;
-
-- Develop automatic tools to improve working efficiency (e.g automatic sending report from Jira, massively setting up Jenkins jobs).
-
-- Do data analysis on test log and create a statistical model of product's performance;
-
+- Build test bench and monitors for DUT using python, and trouble
+shoot function/performance/FW bugs via SW and HW tools (e.g
+protocol analyzer);
+- Design auto tools to generate files with all required info from code
+management platform for automation test frameworks;
+- Analyze data to dig out root cause of failures and put forward
+direction of products’ optimization;
 
 Learning Outcomes :
-
-- Concurrent programming and Parallel programming in Python;
-
-- PCIe architecture;
-
-- Git distributed version control system, Jira project tracking software;
-
-- Data analysis and data visualization using pandas, numpy, matplotlib and etc.;
-
-- Linux operating system, e.g remote fetch and manage files and debug with kernel log;
+- Experience with PCIe bus, Firmware, Linux Kernel, NVMe & SPDK
+Driver in kernel space, Unix/Linux environment and hardware
+setup;
+- Design for verification (code coverage, assertion based design
+strategies etc.);
+- Data analysis and data mining;
 ```
 
 #### Process Support Engineer 
