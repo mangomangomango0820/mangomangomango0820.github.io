@@ -28,20 +28,14 @@ GPA: 3.35 / 4.0 (Top 20 %)
 
 ```
 Tasks & Achievements :
-- Build test bench and monitors for DUT using python, and trouble
-shoot function/performance/FW bugs via SW and HW tools (e.g
-protocol analyzer);
-- Design auto tools to generate files with all required info from code
-management platform for automation test frameworks;
-- Analyze data to dig out root cause of failures and put forward
-direction of products’ optimization;
+- Build test bench and monitors for DUT using python, and trouble shoot function/performance/FW bugs via SW, linux kernel and HW tools (e.g protocol analyzer);
+- Understand PMIC through architecture block diagrams, schematics, datasheets as well as interactions with other components on PCB;
+- Collect information and identify fundamental pattern / trends in data by developing automated GUI tool;
+- Hands-on experience in setting up hardware test platform;
 
 Learning Outcomes :
-- Experience with PCIe bus, Firmware, Linux Kernel, NVMe & SPDK
-Driver in kernel space, Unix/Linux environment and hardware
-setup;
-- Design for verification (code coverage, assertion based design
-strategies etc.);
+- Knowledge on High-speed IO / PCIe validation and debugging;
+- Design for verification (code coverage, assertion based design strategies etc.);
 - Data analysis and data mining;
 ```
 
