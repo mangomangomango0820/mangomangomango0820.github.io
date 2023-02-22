@@ -35,12 +35,12 @@ Tasks & Achievements :
 - Analyze failures and actively drive issues to closure;
 
 Learning Outcomes :
-- Experience with high-speed peripheral PCIe validation and debugging;
-- Experience with NVMe protocol, 
-- Experience with script language such as Python, Go, and shell scripts;
+- Experience with high-speed peripheral PCIe bus validation and debugging;
+- Experience with NVMe/ATA protocol;
 - Experience with test equipment and tool such as protocol analyzer and oscilloscope;
+- Experience with general connectivity IPs (I2C/UART);
+- Experience with script language such as Python, Go, and shell scripts;
 - Data analysis and data mining;
-- SPI/UART
 ```
 
 #### Process Support Engineer 
