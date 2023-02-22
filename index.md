@@ -28,15 +28,19 @@ GPA: 3.35 / 4.0 (Top 20 %)
 
 ```
 Tasks & Achievements :
-- Build test bench and monitors for DUT using python, and trouble shoot function/performance/FW bugs via SW, linux kernel and HW tools (e.g protocol analyzer);
+- Build test bench and monitors for post-Silicon DUT using python, and trouble shoot function/performance/FW bugs via SW, linux kernel and HW tools (e.g protocol analyzer);
 - Understand PMIC through architecture block diagrams, schematics, datasheets as well as interactions with other components on PCB;
 - Collect information and identify fundamental pattern / trends in data by developing automated GUI tool;
 - Hands-on experience in setting up hardware test platform;
+- Analyze failures and actively drive issues to closure;
 
 Learning Outcomes :
-- Knowledge on High-speed IO / PCIe validation and debugging;
-- Design for verification (code coverage, assertion based design strategies etc.);
+- Experience with high-speed peripheral PCIe validation and debugging;
+- Experience with NVMe protocol, 
+- Experience with script language such as Python, Go, and shell scripts;
+- Experience with test equipment and tool such as protocol analyzer and oscilloscope;
 - Data analysis and data mining;
+- SPI/UART
 ```
 
 #### Process Support Engineer 
