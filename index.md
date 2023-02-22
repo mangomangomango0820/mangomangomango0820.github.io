@@ -36,7 +36,7 @@ Tasks & Achievements :
 
 Learning Outcomes :
 - Experience with high-speed peripheral PCIe bus validation and debugging;
-- Experience with NVMe/ATA protocol;
+- Experience with NVMe/ATA Security protocol;
 - Experience with test equipment and tool such as protocol analyzer and oscilloscope;
 - Experience with general connectivity IPs (I2C/UART);
 - Experience with script language such as Python, Go, and shell scripts;
