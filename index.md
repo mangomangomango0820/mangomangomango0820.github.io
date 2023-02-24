@@ -31,8 +31,9 @@ Tasks & Achievements :
 - Build test bench and monitors for post-Silicon DUT using python, and trouble shoot function/performance/FW bugs via SW, linux kernel and HW tools (e.g protocol analyzer);
 - Understand PMIC through architecture block diagrams, schematics, datasheets as well as interactions with other components on PCB;
 - Collect information and identify fundamental pattern / trends in data by developing automated GUI tool;
-- Hands-on experience in setting up hardware test platform;
 - Analyze failures and actively drive issues to closure;
+- Hands-on experience in setting up hardware test platform;
+
 
 Learning Outcomes :
 - Experience with high-speed peripheral PCIe bus validation and debugging;
@@ -40,7 +41,8 @@ Learning Outcomes :
 - Experience with test equipment and tool such as protocol analyzer and oscilloscope;
 - Experience with general connectivity IPs (I2C/UART);
 - Experience with script language such as Python, Go, and shell scripts;
-- Data analysis and data mining;
+- Experience with multi-threading;
+- Experience with analysis on competitors' products;
 ```
 
 #### Process Support Engineer 
