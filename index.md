@@ -41,7 +41,7 @@ Learning Outcomes :
 - Experience with test equipment and tool such as protocol analyzer and oscilloscope;
 - Experience with general connectivity IPs (I2C/UART);
 - Experience with script language such as Python, Go, and shell scripts;
-- Experience with multi-threading;
+- Experience in multi-threaded / parallel programming;
 - Experience with analysis on competitors' products;
 ```
 
