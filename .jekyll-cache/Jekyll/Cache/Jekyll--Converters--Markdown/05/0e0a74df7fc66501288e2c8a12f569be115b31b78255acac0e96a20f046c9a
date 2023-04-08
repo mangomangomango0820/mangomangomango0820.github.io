@@ -1,0 +1,270 @@
+I"5/<h1 id="education">Education</h1>
+
+<h4 id="master-of-science-nanoelectronics">Master of Science, Nanoelectronics</h4>
+<p><em>Cum Laude</em><br />GPA: 13.6 / 20.0</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">Time</th>
+      <th style="text-align: left">University</th>
+      <th style="text-align: left">GPA</th>
+      <th style="text-align: left">Courses</th>
+      <th style="text-align: left">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">10.2018 – 02.2020</td>
+      <td style="text-align: left">Technische Universität Dresden<br /><br /><em>Dresden, Germany</em></td>
+      <td style="text-align: left">13.6 / 20.0 (Cum Laude)</td>
+      <td style="text-align: left">‘Molecular Electronic’, ‘Nano Optic’ and so on.</td>
+      <td style="text-align: left">In-depth studies on electronics technology.</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">09.2017 – 02.2020</td>
+      <td style="text-align: left">Katholieke Universiteit Leuven<br /><br /><em>Leuven, Belgium</em></td>
+      <td style="text-align: left"> </td>
+      <td style="text-align: left">‘Semiconductor Devices’, ‘Semiconductor Physics’, ‘Integrated Circuits Packaging’, ‘Mesosopic Physics’, and ‘Electrical Components, Circuits and Sensors’ and etc.</td>
+      <td style="text-align: left">Take in fundamental and also state-of-art knowledge in semiconductors field.</td>
+    </tr>
+  </tbody>
+</table>
+
+<h4 id="bachelor-of-science-material-science-and-engineering">Bachelor of Science, Material Science and Engineering</h4>
+<p><em>Top 20 %</em><br />GPA: 3.35 / 4.0
+| Time              | University                                               | GPA                      | Courses                                                                                                                                                            | Description                                                                  |
+| :—:             |     :—                                                 |  :—                    | :—                                                                                                                                                               | :—                                                                         | 
+| 09.2013 – 07.2017 | University of Jinan<br /><br /><em>Jinan, China</em>                | 3.35 / 4.0 (Top 20 %)    | ‘Materials Physics’, ‘Material Science Foundation’ and so on.                                                                                                      | Enhanced understanding of material science and engineering.                  |</p>
+
+<h4 id="master-of-science-nanoelectronics-1">Master of Science, Nanoelectronics</h4>
+<p>GPA: 13.6 / 20.0 (Cum Laude)</p>
+<blockquote>
+  <p>10.2018 – 02.2020 「Technische Universität Dresden」
+<em>Dresden, Germany</em></p>
+  <blockquote>
+    <p><code class="language-plaintext highlighter-rouge">In-depth studies on electronics technology, e.g. ‘Molecular Electronic’, ‘Nano Optics’ and etc.</code></p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <p>09.2017 – 02.2020 「Katholieke Universiteit Leuven<br />
+<em>Leuven, Belgium</em></p>
+  <blockquote>
+    <p><code class="language-plaintext highlighter-rouge">Take in fundamental and also state-of-art knowledge in semiconductors field, e.g. ‘Semiconductor Devices’, ‘Integrated Circuits Packaging’ and ‘Electrical Components, Circuits and Sensors’ and etc.</code></p>
+  </blockquote>
+</blockquote>
+
+<h4 id="bachelor-of-engineering-material-science-and-engineering">Bachelor of Engineering, Material Science and Engineering</h4>
+<p>GPA: 3.35 / 4.0 (Top 20 %)</p>
+<blockquote>
+  <p>09.2013 – 07.2017 「University of Jinan」<br />
+<em>Jinan, China</em></p>
+  <blockquote>
+    <p><code class="language-plaintext highlighter-rouge">Enhanced understanding of material science and engineering by courses ‘Materials Physics’, ‘Material Science Foundation’ and etc.</code></p>
+  </blockquote>
+</blockquote>
+
+<hr />
+
+<h1 id="work-experience">Work Experience</h1>
+<h4 id="validation-engineer">Validation Engineer</h4>
+<blockquote>
+  <p>01.2021 – Until Now 「Yangtze Memory Technologies」<br />
+<em>Shanghai, China</em></p>
+</blockquote>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Tasks &amp; Achievements :
+- Build test bench and monitors for post-Silicon DUT using python, and trouble shoot function/performance/FW bugs via SW, linux kernel and HW tools (e.g protocol analyzer);
+- Understand PMIC through architecture block diagrams, schematics, datasheets as well as interactions with other components on PCB;
+- Collect information and identify fundamental pattern / trends in data by developing automated GUI tool;
+- Analyze failures and actively drive issues to closure;
+- Hands-on experience in setting up hardware test platform;
+
+
+Learning Outcomes :
+- Experience with high-speed peripheral PCIe bus validation and debugging;
+- Experience with NVMe/ATA Security protocol;
+- Experience with test equipment and tool such as protocol analyzer and oscilloscope;
+- Experience with general connectivity IPs (I2C/UART);
+- Experience with script language such as Python, Go, and shell scripts;
+- Experience in multi-threaded / parallel programming;
+- Experience with analysis on competitors' products;
+</code></pre></div></div>
+
+<h4 id="process-support-engineer">Process Support Engineer</h4>
+<blockquote>
+  <p>06.2020 – 12.2020 「Applied Materials」<br />
+<em>Jinan, China</em></p>
+</blockquote>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Tasks &amp; Achievements :
+# Process eBeam graphics via edge / are segmentation, and realize rough binning via crude decision trees;
+
+Learning Outcomes :
+# Image processing, e.g. edge / area segmentation methods;
+# Crude decision trees for rough binning;
+# e-Beam tool mechanical structure and physical theories 
+behind;
+</code></pre></div></div>
+
+<hr />
+
+<h1 id="projects">Projects</h1>
+<h4 id="investigating-high-performance-semiconductor-coating-recipes-on-a-mechanically-flexible-plastic-substrate">Investigating High-Performance Semiconductor Coating Recipes on a mechanically flexible, plastic substrate</h4>
+<blockquote>
+  <p>04.2019 – 10.2019 「Center for Advancing Electronics」<br />
+<em>Dresden, Germany</em></p>
+</blockquote>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Tasks &amp; Achievements :
+- Design semiconductor devices architecture, manufacture 
+it under certain flow and later use related equipments to 
+evaluate its functionality and reliability;
+- Utilize excel VBA or Origin script to do device 
+failture analysis, optimize process flow to improve 
+products performance and yield.
+
+Learning Outcomes :
+- Device failure analysis;
+- Batch data processing by using Excel VBA and Origin;
+- LATEX scripting language.
+</code></pre></div></div>
+
+<h4 id="thermo-optic-effect-on-waveguide-in-mach-zehnder-modulator">Thermo-Optic Effect on Waveguide in Mach Zehnder Modulator</h4>
+<blockquote>
+  <p>11.2018 – 04.2019 「TU Dresden」<br />
+<em>Dresden, Germany</em></p>
+</blockquote>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Tasks &amp; Achievements :
+- Mastered using script language embedded in simulation 
+software ‘Lumerical’ in a short time to set up a 
+previously designed integrated optics structure and 
+related thermo-optic influence simulation model, 
+reflecting in a way of 3D converged thermal gradient 
+and calculated light modes;
+- Proposed suggestions on how to optimize simulation for 
+higher throughput and more accurate results.
+
+Learning Outcomes :
+- Knowledge of Finite Element Modelling;
+- Research &amp; development skills in integrated optics;
+- Data visualization via MATLAB programming.
+</code></pre></div></div>
+
+<h4 id="acoustic-characterization-of-pmut-for-gesture-recognization">Acoustic Characterization of PMUT for Gesture Recognization</h4>
+<blockquote>
+  <p>03.2018 – 05.2018 「IMEC」<br />
+<em>Leuven, Belgium</em></p>
+</blockquote>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Tasks &amp; Achievements :
+- Design for testing on PMUT arrays with semiconductor 
+analysis equipment;
+- Put forward advice on how to develop single PMUT 
+performance while reduce cross-talk between neighboring 
+PMUTs.
+
+Learning Outcomes :
+- Scenario and signal sensitivity analysis;
+- Data visualization via MATLAB programming.
+</code></pre></div></div>
+
+<hr />
+
+<h1 id="patents">Patents</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Date</th>
+      <th style="text-align: left">Title</th>
+      <th style="text-align: left">Author</th>
+      <th style="text-align: left">Work Unit</th>
+      <th style="text-align: left">Status</th>
+      <th style="text-align: left">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">03.2023</td>
+      <td style="text-align: left">An algorithm of SSD competitor analysis with PCMark10 Software</td>
+      <td style="text-align: left">Xueshan Zhang et al.</td>
+      <td style="text-align: left">Yangtze Memory Technologies</td>
+      <td style="text-align: left">Submitted in 03.2023 and calling for internal specialists review;</td>
+      <td style="text-align: left">An algorithm of analyzing PCMark10 test results and inferring where the weak points of performance are from the analysis.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">12.2022</td>
+      <td style="text-align: left">Automated deployment of software testing environment</td>
+      <td style="text-align: left">Xueshan Zhang</td>
+      <td style="text-align: left">Yangtze Memory Technologies</td>
+      <td style="text-align: left">Submitted in 12.2022 and approved by internal specialists review; <br /><br />Authorized to patent agent to continue patent application.</td>
+      <td style="text-align: left">A program to quickly deploying software development environment on many servers and automated monitoring the deployment status.</td>
+    </tr>
+  </tbody>
+</table>
+
+<h1 id="certificates">Certificates</h1>
+<h4 id="learning-data-analytics">Learning Data Analytics</h4>
+<blockquote>
+  <p>07.2020    「Linkedin」<br /></p>
+</blockquote>
+
+<h4 id="provision-application-essentials">PROVision Application Essentials</h4>
+<blockquote>
+  <p>07.2020    「Applied Materials」<br /></p>
+</blockquote>
+
+<hr />
+
+<h1 id="awards">Awards</h1>
+<h4 id="cum-laude-master-graduate">Cum Laude Master Graduate</h4>
+<blockquote>
+  <p>02.2020    「KU Leuven」<br /></p>
+</blockquote>
+
+<h4 id="all-round-development-scholarship---1st-prize-1--41">All-Round Development Scholarship - 1st Prize (1 / 41)</h4>
+<blockquote>
+  <p>07.2017    「UJN」<br /></p>
+</blockquote>
+
+<h4 id="bachelor-thesis-competition---1st-prize-10">Bachelor Thesis Competition - 1st Prize (10%)</h4>
+<blockquote>
+  <p>06.2017    「UJN」<br /></p>
+</blockquote>
+
+<h4 id="national-english-competition-for-college-students-neccs---type-c---1st-prize-5-">National English Competition for College Students (NECCS) - Type C - 1st Prize (5 ‰)</h4>
+<blockquote>
+  <p>08.2015   </p>
+</blockquote>
+
+<hr />
+
+<h1 id="referee">Referee</h1>
+<blockquote>
+  <p>Stefan Mannsfeld               {Prof}</p>
+  <blockquote>
+    <p>「Center for Advancing Electronics」<br />
+stefan.mannsfeld@tu-dresden.de</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <p>Steven De Feyter                {Prof}</p>
+  <blockquote>
+    <p>「KU Leuven」<br />
+steven.defeyter@kuleuven.be</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <p>Yiau Yee Chia                     {ex-manager}</p>
+  <blockquote>
+    <p>「Applied Materials」<br />
+yiau_yee_chia@amat.com</p>
+  </blockquote>
+</blockquote>
+
+:ET
