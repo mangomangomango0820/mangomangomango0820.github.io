@@ -122,6 +122,16 @@ Learning Outcomes :
 
 * * *
 
+* * *
+
+# Patents
+| Date | Title | Author | Work Unit | Status | Description |
+|:----:|:-----:|:------:|:---------:|:---    |:----        |
+| 03.2023 | An algorithm of SSD competitor analysis with PCMark10 Software | Xueshan Zhang et al. | 「Yangtze Memory Technologies」| Submitted in 03.2023 and calling for internal specialists review; | An algorithm of analyzing PCMark10 test results and inferring where the weak points of performance are from the analysis. |
+| 12.2022 | Automated deployment of software testing environment | Xueshan Zhang |「Yangtze Memory Technologies」| Submitted in 12.2022 and approved by internal specialists review; authorized to patent agent to continue patent application.| A program to quickly deploying software development environment on many servers and automated monitoring the deployment status. |
+
+* * *
+
 # Certificates
 #### Learning Data Analytics
 > 07.2020 &nbsp;&nbsp; 「Linkedin」<br>
