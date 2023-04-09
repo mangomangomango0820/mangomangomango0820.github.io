@@ -23,6 +23,18 @@ layout: default
 ***
 
 # Work Experience
+#### Empyrean
+
+| Time               | Position                      | Location           | 
+| :---:              |     :---                      | :---:              | 
+| 04.2023 ➡ Now      | Software Engineer             | Shanghai, China    |
+
+Tasks & Achievements :
+- Develop the performance of EDA tool simulation and the accuracy of simulation results, while simulating AC/DC signals with given device models and extracting critical parasitic parameters;
+- ...
+
+Learning Outcomes:
+- ...
 
 #### Yangtze Memory Technologies
 

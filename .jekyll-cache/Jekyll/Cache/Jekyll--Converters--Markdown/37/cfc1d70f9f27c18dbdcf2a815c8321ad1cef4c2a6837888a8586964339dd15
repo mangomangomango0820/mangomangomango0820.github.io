@@ -1,0 +1,406 @@
+I"�6<h1 id="education">Education</h1>
+<h4 id="master-of-science-nanoelectronics">Master of Science, Nanoelectronics</h4>
+<blockquote>
+  <p>Courses:<br /></p>
+  <blockquote>
+    <p>‘Semiconductor Devices’, ‘Semiconductor Physics’, ‘Integrated Circuits Packaging’, and ‘Electrical Components, Circuits and Sensors’, ‘Nano Optics’ and etc.</p>
+  </blockquote>
+</blockquote>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">Time</th>
+      <th style="text-align: left">University</th>
+      <th style="text-align: center">Location</th>
+      <th style="text-align: center">Rank</th>
+      <th style="text-align: center">GPA</th>
+      <th style="text-align: left">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">10.2018 ⬇ 02.2020</td>
+      <td style="text-align: left">Technische Universität Dresden</td>
+      <td style="text-align: center"><em>Dresden, Germany</em></td>
+      <td style="text-align: center">Cum Laude</td>
+      <td style="text-align: center">13.67/20.0</td>
+      <td style="text-align: left">In-depth studies on electronics technology.</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">09.2017 ⬇ 02.2020</td>
+      <td style="text-align: left">Katholieke Universiteit Leuven</td>
+      <td style="text-align: center"><em>Leuven, Belgium</em></td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: left">Take in fundamental and also state-of-art knowledge in semiconductors field.</td>
+    </tr>
+  </tbody>
+</table>
+
+<h4 id="bachelor-of-science-material-science-and-engineering">Bachelor of Science, Material Science and Engineering</h4>
+<blockquote>
+  <p>Courses:<br /></p>
+  <blockquote>
+    <p>‘Materials Physics’, ‘Quantum Physics’, and ‘Material Science Foundation’ and so on.</p>
+  </blockquote>
+</blockquote>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">Time</th>
+      <th style="text-align: left">University</th>
+      <th style="text-align: center">Location</th>
+      <th style="text-align: center">Rank</th>
+      <th style="text-align: center">GPA</th>
+      <th style="text-align: left">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">09.2013 ⬇ 07.2017</td>
+      <td style="text-align: left">University of Jinan</td>
+      <td style="text-align: center"><em>Jinan, China</em></td>
+      <td style="text-align: center">Top 20 %</td>
+      <td style="text-align: center">3.35/4.0</td>
+      <td style="text-align: left">Enhanced understanding of material science and physics theories.</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h1 id="work-experience">Work Experience</h1>
+<h4 id="empyrean">Empyrean</h4>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">Time</th>
+      <th style="text-align: left">Position</th>
+      <th style="text-align: center">Location</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">04.2023 ➡ Now</td>
+      <td style="text-align: left">Software Engineer</td>
+      <td style="text-align: center">Shanghai, China</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Tasks &amp; Achievements :</p>
+<ul>
+  <li>Develop the performance of simulation and the accuracy of simulation results, while simulating AC/DC signals with given device models and extracting critical parasitic parameters;</li>
+  <li>…</li>
+</ul>
+
+<p>Learning Outcomes:</p>
+<ul>
+  <li>…</li>
+</ul>
+
+<h4 id="yangtze-memory-technologies">Yangtze Memory Technologies</h4>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">Time</th>
+      <th style="text-align: left">Position</th>
+      <th style="text-align: center">Location</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">01.2021 ➡ 03.2023</td>
+      <td style="text-align: left">Validation Engineer</td>
+      <td style="text-align: center">Shanghai, China</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Tasks &amp; Achievements :</p>
+<ul>
+  <li>Build test bench for post-Silicon Nand Flash storage devices;</li>
+  <li>Trouble shoot front-end and back-end function, and performance bugs of storage devices by debugging with linux kernel, scripts and hardware tools (e.g protocol analyzer);</li>
+  <li>Understand the operating principle of power management ICs through datasheets and test results via design for test;</li>
+  <li>Collect information and identify fundamental pattern, or trends in data by data analysis;</li>
+  <li>Develop strategies/algorithms for analyzing results from main stream analysis software out of the purpose of competitor analysis and figure out weak points of pre-stage design;</li>
+  <li>Hands-on experience in setting up test platform;</li>
+</ul>
+
+<p>Learning Outcomes :</p>
+<ul>
+  <li>Experience with high-speed peripheral PCIe bus validation and debugging;</li>
+  <li>Experience with NVMe / ATA Security protocol;</li>
+  <li>Experience with test equipment and tool such as protocol analyzer and oscilloscope;</li>
+  <li>Experience with general connectivity IPs (I2C / UART);</li>
+  <li>Experience in multi-threaded / parallel programming;</li>
+  <li>Experience with developing algorithm for competitor analysis;</li>
+  <li>Experience with git version control syste, e.g. bitbucket, github;</li>
+  <li>Mainly with Python; experience with C, html and shell scripts.</li>
+</ul>
+
+<h4 id="process-support-engineer">Process Support Engineer</h4>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">Time</th>
+      <th style="text-align: left">Position</th>
+      <th style="text-align: center">Location</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">06.2020 ➡ 12.2020</td>
+      <td style="text-align: left">Process Support Engineer</td>
+      <td style="text-align: center">Jinan, China</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Tasks &amp; Achievements :</p>
+<ul>
+  <li>Measure critical parameters on eBeam-source wafer images with knowledge on eBeam imaging and image segmentation;</li>
+  <li>Distinguish the types of process defects based on a large quantity of eBeam images using binary search tree algorithm, and analyze which stage of process may cause such defects;</li>
+</ul>
+
+<p>Learning Outcomes :</p>
+<ul>
+  <li>Image processing;</li>
+  <li>Soft binning and binary search tree algorithm.</li>
+</ul>
+
+<hr />
+
+<h1 id="patents">Patents</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Date</th>
+      <th style="text-align: left">Title</th>
+      <th style="text-align: left">Author</th>
+      <th style="text-align: left">Work Unit</th>
+      <th style="text-align: left">Status</th>
+      <th style="text-align: left">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">03.2023</td>
+      <td style="text-align: left">An algorithm of SSD competitor analysis with PCMark10 Software</td>
+      <td style="text-align: left">Xueshan Zhang et al.</td>
+      <td style="text-align: left">Yangtze Memory Technologies</td>
+      <td style="text-align: left">Submitted in 03.2023 and calling for internal specialists review;</td>
+      <td style="text-align: left">An algorithm of analyzing PCMark10 test results and inferring where the weak points of performance are from the analysis.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">12.2022</td>
+      <td style="text-align: left">Automated deployment of software testing environment</td>
+      <td style="text-align: left">Xueshan Zhang</td>
+      <td style="text-align: left">Yangtze Memory Technologies</td>
+      <td style="text-align: left">Submitted in 12.2022 and approved by internal specialists review; <br /><br />Authorized to patent agent to continue patent application.</td>
+      <td style="text-align: left">A program to quickly deploying software development environment on many servers and automated monitoring the deployment status.</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h1 id="projects">Projects</h1>
+<h4 id="investigating-high-performance-semiconductor-coating-recipes-on-a-mechanically-flexible-plastic-substrate">Investigating High-Performance Semiconductor Coating Recipes on a mechanically flexible, plastic substrate</h4>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">Time</th>
+      <th style="text-align: center">Institute</th>
+      <th style="text-align: center">Location</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">04.2019 ➡ 10.2019</td>
+      <td style="text-align: center">Center for Advancing Electronics</td>
+      <td style="text-align: center"><em>Dresden, Germany</em></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Tasks &amp; Achievements :</p>
+<ul>
+  <li>Design the architecture of organic thin film transistor (OFET), manufacture it according to design flow;</li>
+  <li>Evaluate comprehensively the process defects of thin film component, I-V performance of OFET as a whole and performance reliability of OFETs;</li>
+</ul>
+
+<p>Learning Outcomes :</p>
+<ul>
+  <li>Device failure analysis;</li>
+  <li>Device Design.</li>
+</ul>
+
+<h4 id="thermo-optic-effect-on-waveguide-in-mach-zehnder-modulator">Thermo-Optic Effect on Waveguide in Mach Zehnder Modulator</h4>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">Time</th>
+      <th style="text-align: center">Institute</th>
+      <th style="text-align: center">Location</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">11.2018 ➡ 04.2019</td>
+      <td style="text-align: center">TU Dresden</td>
+      <td style="text-align: center"><em>Dresden, Germany</em></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Tasks &amp; Achievements :</p>
+<ul>
+  <li>Design an integrated optics structure and simulate the thermo-optic influence on the output optical signals in simulation software ‘Lumerical’;</li>
+  <li>Develop a method of achieving higher throughput of light modes and simulated signals with higher accuracy;</li>
+</ul>
+
+<p>Learning Outcomes :</p>
+<ul>
+  <li>Finite Element Method;</li>
+  <li>Integrated optics design;</li>
+  <li>Data visualization with Matlab.</li>
+</ul>
+
+<h4 id="acoustic-characterization-of-pmut-for-gesture-recognization">Acoustic Characterization of PMUT for Gesture Recognization</h4>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">Time</th>
+      <th style="text-align: center">Institute</th>
+      <th style="text-align: center">Location</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">03.2018 ➡ 05.2018</td>
+      <td style="text-align: center">IMEC</td>
+      <td style="text-align: center"><em>Leuven, Belgium</em></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Tasks &amp; Achievements :</p>
+<ul>
+  <li>Evaluate performance of designed PMUT arrays and analyze test results;</li>
+  <li>Present test results based on existing PMUT structure and propose advice on changing PMUT’s design to improve single PMUT performance while avoiding cross-talk among neighboring PMUTs.</li>
+</ul>
+
+<p>Learning Outcomes :</p>
+<ul>
+  <li>Signal sensitivity analysis;</li>
+  <li>Data visualization with MATLAB.</li>
+</ul>
+
+<hr />
+
+<h1 id="certificates">Certificates</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">Date</th>
+      <th style="text-align: center">Certificate</th>
+      <th style="text-align: center">Authority</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">07.2020</td>
+      <td style="text-align: center">Learning Data Analytics</td>
+      <td style="text-align: center">Linkedin</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">07.2020</td>
+      <td style="text-align: center">PROVision Application Essentials</td>
+      <td style="text-align: center">Applied Materials</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h1 id="awards">Awards</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">Date</th>
+      <th style="text-align: center">Certificate</th>
+      <th style="text-align: center">Authority</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">02.2020</td>
+      <td style="text-align: center">Cum Laude</td>
+      <td style="text-align: center">KU Leuven</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">07.2020</td>
+      <td style="text-align: center">All-Round Development Scholarship<br />1st Prize (1 / 41)</td>
+      <td style="text-align: center">University of Jinan</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">06.2017</td>
+      <td style="text-align: center">Bachelor Thesis Competition - 1st Prize (10%)</td>
+      <td style="text-align: center">University of Jinan</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">08.2015</td>
+      <td style="text-align: center">National English Competition for College Students (NECCS) - Type C - 1st Prize (5 ‰)</td>
+      <td style="text-align: center">TEFL China</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h1 id="referee">Referee</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">Institute</th>
+      <th style="text-align: center">Title</th>
+      <th style="text-align: center">People</th>
+      <th style="text-align: center">Contact</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">Center for Advancing Electronics</td>
+      <td style="text-align: center">Prof</td>
+      <td style="text-align: center">Stefan Mannsfeld</td>
+      <td style="text-align: center">stefan.mannsfeld@tu-dresden.de</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">KU Leuven</td>
+      <td style="text-align: center">Prof</td>
+      <td style="text-align: center">Steven De Feyter</td>
+      <td style="text-align: center">steven.defeyter@kuleuven.be</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Applied Materials</td>
+      <td style="text-align: center">Manager</td>
+      <td style="text-align: center">Yiau Yee Chia</td>
+      <td style="text-align: center">yiau_yee_chia@amat.com</td>
+    </tr>
+  </tbody>
+</table>
+
+:ET
