@@ -30,11 +30,13 @@ layout: default
 | 04.2023 ➡ Now      | Software Engineer             | Shanghai, China    |
 
 Tasks & Achievements :
-- 
-- Develop the performance of EDA tool simulation and the accuracy of simulation results, while simulating AC/DC signals with given device models and extracting critical parasitic parameters;
+- Analyze waveform and accuracy of AC/DC signals' simulation results;
+- Work with subckts for specified device models;
 - ...
 
 Learning Outcomes:
+- Finite Element Method;
+- Transient/Operating points analysis for specified subckts.
 - ...
 
 #### Yangtze Memory Technologies
