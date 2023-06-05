@@ -47,21 +47,20 @@ Learning Outcomes:
 
 Tasks & Achievements :
 - Build test bench for post-Silicon Nand Flash storage devices;
-- Trouble shoot front-end and back-end function, and performance bugs of storage devices by debugging with linux kernel, scripts and hardware tools (e.g protocol analyzer);
-- Understand the operating principle of power management ICs through datasheets and test results via design for test;
-- Collect information and identify fundamental pattern, or trends in data by data analysis;
-- Develop strategies/algorithms for analyzing results from main stream analysis software out of the purpose of competitor analysis and figure out weak points of pre-stage design;
+- Trouble shoot front-end and back-end function, and performance bugs by debugging with linux kernel, scripts and hardware tools (e.g protocol analyzer);
+- Understand the operating principle of power management ICs through data sheets and its influence on the connected sub components via different channels;;
+- Design algorithms and strategies to identify fundamental pattern, or trends in data by data analysis;
 - Hands-on experience in setting up test platform;
 
 Learning Outcomes :
 - Experience with high-speed peripheral PCIe bus validation and debugging;
-- Experience with NVMe / ATA Security protocol;
-- Experience with test equipment and tool such as protocol analyzer and oscilloscope;
-- Experience with general connectivity IPs (I2C / UART);
-- Experience in multi-threaded / parallel programming;
-- Experience with developing algorithm for competitor analysis;
-- Experience with git version control syste, e.g. bitbucket, github;
-- Mainly with Python; experience with C, html and shell scripts.
+- Experience with protocols, e.g NVMe, ATA Security, and PCIe;
+- Experience with general connectivity IPs (I2C and UART);
+- Experience with test equipment and tool, e.g protocol analyzer and oscilloscope;
+- Experience in multi-threaded and parallel programming;
+- Experience with data analysis via Pandas, NumPy and etc.;
+- Experience with git version control system, e.g. Bitbucket, Github;
+- Program mainly with Python, and a few with C, html and shell scripts.
 
 #### Process Support Engineer
 
