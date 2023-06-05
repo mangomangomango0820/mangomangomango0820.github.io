@@ -5,7 +5,7 @@ layout: default
 # Education
 #### Master of Science, Nanoelectronics
 > Courses:<br>
->> 'Semiconductor Devices', 'Semiconductor Physics', 'Integrated Circuits Packaging', and 'Electrical Components, Circuits and Sensors', 'Nano Optics' and etc.
+>> 'Semiconductor Devices', 'Semiconductor Physics', 'Mesoscopic Physics'， 'Integrated Circuits Packaging', and 'Electrical Components, Circuits and Sensors', 'Nano Optics' and etc.
 
 | Time               | University                      | Location           | Rank      | GPA         | Description                                                                  |
 | :---:              |     :---                        | :---:              | :---:     | :---:       | :---                                                                         |
@@ -30,13 +30,13 @@ layout: default
 | 04.2023 ➡ Now      | Software Engineer             | Shanghai, China    |
 
 Tasks & Achievements :
-- Analyze waveform and accuracy of AC/DC signals' simulation results;
-- Work with subckts for specified device models;
+- Design netlists out of specific purpose to validate the accuracy and performance of analog signal simulation;
+- Design subckts to make sure rc reduction feature work properly;
 - ...
 
 Learning Outcomes:
 - Finite Element Method;
-- Transient/Operating points analysis for specified subckts.
+- Sub circuits, and netlists.
 - ...
 
 #### Yangtze Memory Technologies
@@ -139,6 +139,22 @@ Learning Outcomes :
 | :---:              | :----:                           | :---:              | 
 | 07.2020            | Learning Data Analytics          | Linkedin           |
 | 07.2020            | PROVision Application Essentials | Applied Materials  |
+
+* * *
+
+# Skill Sets
+
+| Category              | item                           | Description                                 | 
+| :---:                 | :----:                         | :---:                                       | 
+| Programming Language  | Python                         | Pandas<br>NumPy<br>PyTorch<br>matplot       |
+|                       | C++                            | Two Pointer<br>Binary Search<br>Bubble Sort |
+|                       | shell                          |                                             |
+| Linux                 | kernel                         |                                             |
+| Hardware              | Protocol                       | Nvme<br>PCIe<br>ATA Security<br>UART        |
+|                       | PCIe                           | Link Management<br>Power Management         |  
+| Text                  | Markdown                       |   |
+|                       | LaTex                          |   |
+|                       | Vim                            |   |
 
 * * *
 
